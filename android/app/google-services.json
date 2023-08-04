@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "862081334940",
+    "project_id": "flutterdemo-a1399",
+    "storage_bucket": "flutterdemo-a1399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862081334940:android:6ec298eb764c653ff0b759",
+        "android_client_info": {
+          "package_name": "com.example.flutter2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862081334940-1o8q5hb258u67l8vq7p7j941bkkc9nsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtUmPvYURIJ7rG5ANCAQXca8_B9EIuhxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862081334940-1o8q5hb258u67l8vq7p7j941bkkc9nsa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862081334940-q4epbsi0p8etdbt2sedsrp2tdfom53tb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.n4d",
+                "app_store_id": "321"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862081334940:android:6dc190741e67c68df0b759",
+        "android_client_info": {
+          "package_name": "com.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862081334940-1o8q5hb258u67l8vq7p7j941bkkc9nsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtUmPvYURIJ7rG5ANCAQXca8_B9EIuhxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862081334940-1o8q5hb258u67l8vq7p7j941bkkc9nsa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862081334940-q4epbsi0p8etdbt2sedsrp2tdfom53tb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.n4d",
+                "app_store_id": "321"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
